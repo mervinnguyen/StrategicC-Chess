@@ -3,7 +3,7 @@
 **Authors**:
 Mharlo Borromeo, Tuaha Khan, Jack Lu, Calvin Nguyen, Mervin Nguyen, Peter Nguyen
 
-**Date**: 5/30/2024
+**Date**: 02/05/2024
 
 **General Instructions**:
 Please look at install file to learn how to install.
@@ -27,3 +27,5 @@ tar -zcvf Chess_V1.0 ./doc ./bin ./src
 ./Makefile
 
 Built in C, this chess game offers a strategic challenge through carefully crafted algorithms and intuitive gameplay. Dive into an immersive chess experience, complete with AI opponents and multiplayer functionality.
+
+Mervin- LETS CREATE A GUI!
